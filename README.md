@@ -43,7 +43,7 @@ Gestures are stabilized using frame counters to reduce flickering.
     ├── suprised.jpg
     ├── idea.jpg
     └── thinking.jpg
-```text
+```
 
 ---
 

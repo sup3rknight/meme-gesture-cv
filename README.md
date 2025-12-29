@@ -31,6 +31,8 @@ Gestures are stabilized using frame counters to reduce flickering.
 ---
 
 ## 📁 Project Structure
+meme-gesture-cv/
+│
 ├── main.py
 ├── README.md
 ├── requirements.txt
@@ -41,7 +43,8 @@ Gestures are stabilized using frame counters to reduce flickering.
     ├── meme.jpg
     ├── suprised.jpg
     ├── idea.jpg
-    ├── thinking.jpg
+    └── thinking.jpg
+
 
 ---
 

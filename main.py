@@ -16,11 +16,9 @@ hands = mp_hands.Hands(max_num_hands=2)
 dog = cv2.resize(cv2.imread("memes/dogmeme.jpg"), (300, 300))
 meme = cv2.resize(cv2.imread("memes/meme.jpg"), (300, 300))
 surprised = cv2.resize(cv2.imread("memes/suprised.jpg"), (300, 300))
-
 idea = cv2.resize(cv2.imread("memes/idea.jpg"), (300, 300))
 thinking = cv2.resize(cv2.imread("memes/thinking.jpg"), (300, 300))
-stop = cv2.resize(cv2.imread("memes/stop.jpg"), (300, 300))
-shaq = cv2.resize(cv2.imread("memes/ShaqMeme.jpg"), (300, 300))
+
 
 counter = {
     "dog": 0, "meme": 0, "surprised": 0,
